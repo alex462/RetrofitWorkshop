@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#12004b</color>
+    <color name="colorPrimaryDark">#12004b</color>
+    <color name="colorAccent">#12004b</color>
+    <color name="rust">#f66767</color>
+    <color name="darkGreen">#8accb3</color>
+    <color name="paleGreen">#ccd7d1</color>
+    <color name="paleOrange">#fab297</color>
+    <color name="inkyBlue">#12004b</color>
+</resources>
